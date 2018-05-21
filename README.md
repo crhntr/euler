@@ -7,4 +7,4 @@ Project Euler Solutions in Golang (work in progress)
 * 2 - Even Fibonacci numbers (evenfib)
 * 3 - Largest prime factor (largestfactor)
 * 4 - Largest palindrome product (euler-p4)
-
+* 5 - Smallest multiple (smult)
